@@ -4,10 +4,9 @@
 - 📫 How to reach me:
     Send me an email at G00414386@atu.ie and I will get back to you as soon as possible!
 
-  # [Your Name]
-[Your Address]  
-[City, State, ZIP]  
-[Your Email] | [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]
+  # Fionn McCarthy
+Galway  
+fionntmcc04@gmail.com | +353 85 266 1253 |  www.linkedin.com/in/fionn-mccarthy  | GitHub: fionntmcc
 
 ---
 
@@ -19,17 +18,18 @@ Motivated and detail-oriented software development student seeking an internship
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
-[Your University], [City, State]  
-Expected Graduation: May 2025  
-Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Engineering
+**Bachelor of Science in Computer Science and Software Development**  
+Atlantic Technological University, Galway  
+Expected Graduation: June 2026  
+Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Engineering,
+Applied Networking, Graphics Programming
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, Java, C++, JavaScript, HTML/CSS
-- **Frameworks:** React, Node.js, Django
+- **Languages:** Java, JavaScript, C, HTML/CSS, Python
+- **Frameworks:** React, Node.js, .net MAUI
 - **Tools:** Git, Visual Studio Code, Eclipse, JIRA
 - **Databases:** MySQL, MongoDB
 - **Operating Systems:** Windows, Linux
@@ -37,10 +37,6 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 ---
 
 ## Projects
-
-**Personal Portfolio Website**  
-- Developed a responsive personal portfolio using HTML, CSS, and JavaScript to showcase projects and skills.
-- Implemented contact form functionality with Node.js and Express.
 
 **Task Management Application**  
 - Collaborated with a team of 4 to create a task management web application using React and Firebase.
@@ -54,11 +50,12 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 
 ## Work Experience
 
-**IT Support Intern**  
-[Company Name], [City, State]  
-June 2023 – August 2023  
-- Assisted in troubleshooting hardware and software issues, improving overall efficiency of IT operations.
-- Documented and updated technical procedures, reducing onboarding time for new employees by 15%.
+**Phone Tech and Salesperson**  
+Tesco Mobile, Galway
+July 2023 – Present  
+- Troubleshooting network and SIM issues, improving customer satisfaction.
+- Won awards for sales in Period 7 of 2024.
+- Consistently performed in top 20% of salespersons countrywide. 
 
 **Student Developer**  
 [University’s Student Organization/Club], [City, State]  
