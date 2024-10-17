@@ -49,7 +49,7 @@ Tesco Mobile, Galway
 July 2023 – Present  
 - Troubleshooting network and SIM issues, improving customer satisfaction.
 - Won awards for sales in Period 7 of 2024.
-- Consistently performed in top 20% of salespersons countrywide. 
+- Consistently performed in top 20% of salespersons nationwide. 
 
 **Swim Teacher**  
 Kinfisher Club, Galway 
