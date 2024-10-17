@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fionntmcc
-- 👀 I’m interested in Java, Angular Ionic and Godot game scripting
-- 🌱 I’m currently learning Angular Ionic APIs
-- 📫 How to reach me:
-    Send me an email at G00414386@atu.ie and I will get back to you as soon as possible!
-
-  # Fionn McCarthy
+# Fionn McCarthy
 Galway  
 fionntmcc04@gmail.com | +353 85 266 1253 |  www.linkedin.com/in/fionn-mccarthy  | GitHub: fionntmcc
 
@@ -29,7 +23,7 @@ Applied Networking, Graphics Programming
 ## Technical Skills
 
 - **Languages:** Java, JavaScript, C, HTML/CSS, Python
-- **Frameworks:** React, Node.js, .net MAUI
+- **Frameworks:** React, Angular, Node.js, .net MAUI
 - **Tools:** Git, Visual Studio Code, Eclipse, JIRA
 - **Databases:** MySQL, MongoDB
 - **Operating Systems:** Windows, Linux
@@ -38,13 +32,13 @@ Applied Networking, Graphics Programming
 
 ## Projects
 
-**Task Management Application**  
-- Collaborated with a team of 4 to create a task management web application using React and Firebase.
-- Utilized RESTful API principles to connect frontend with backend services, enhancing user experience and functionality.
+**imDB Application**  
+- Created a movie tracker web application using Angular.
+- Utilized TheMovieDB API, and implemented data persistence functionality.
 
-**Weather App**  
-- Built a weather forecasting application in Python that fetches data from the OpenWeatherMap API.
-- Implemented features like search functionality and display of current weather conditions and forecasts.
+**Natural Language Processing Application**
+- Created a Natural Language Processing application using Java.
+- App calculates similar words from a given phrase.
 
 ---
 
@@ -57,11 +51,11 @@ July 2023 – Present
 - Won awards for sales in Period 7 of 2024.
 - Consistently performed in top 20% of salespersons countrywide. 
 
-**Student Developer**  
-[University’s Student Organization/Club], [City, State]  
-September 2022 – Present  
-- Contributed to the development of a community engagement platform, enhancing outreach efforts and member interaction.
-- Conducted code reviews and provided mentorship to junior members, fostering a collaborative learning environment.
+**Swim Teacher**  
+Kinfisher Club, Galway 
+January 2023 – Present  
+- Taught all age groups to improve confidence and abilities.
+- Worked in an environment that promoted intrapersonal communications and public speaking abilities.
 
 ---
 
@@ -70,8 +64,8 @@ September 2022 – Present
 - **Member**, Computer Science Club, [Your University]  
   Participate in coding competitions and hackathons, enhancing teamwork and problem-solving skills.
 
-- **Volunteer**, Local Coding Bootcamp  
-  Assisted instructors in teaching basic programming skills to high school students.
+- **Volunteer**, Prospective Swim Coach 
+  Assisted local Swim Club in session running.
 
 ---
 
@@ -79,6 +73,14 @@ September 2022 – Present
 
 - **Certified Python Programmer** – [Issuing Organization], [Year]
 - **Front-End Web Developer Certification** – [Issuing Organization], [Year]
+
+---
+
+## Awards
+
+- **Acheived High Acheivers award from Secondary School for acheiving over 600 points in the Leaving Cert Examinations, 2022
+- **Received recognition from Board of Applied Mathematics Teachers for acheiving a grade of 100% in the Applied Mathematics Leaving Cert Examination.
+
 
 ---
 
