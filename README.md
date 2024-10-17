@@ -69,18 +69,10 @@ January 2023 – Present
 
 ---
 
-## Certifications
-
-- **Certified Python Programmer** – [Issuing Organization], [Year]
-- **Front-End Web Developer Certification** – [Issuing Organization], [Year]
-
----
-
 ## Awards
 
-- **Acheived High Acheivers award from Secondary School for acheiving over 600 points in the Leaving Cert Examinations, 2022
-- **Received recognition from Board of Applied Mathematics Teachers for acheiving a grade of 100% in the Applied Mathematics Leaving Cert Examination.
-
+- Acheived High Acheivers award from Secondary School for acheiving over 600 points in the Leaving Cert Examinations, 2022
+- Received recognition from Board of Applied Mathematics Teachers for acheiving a grade of 100% in the Applied Mathematics Leaving Cert Examination.
 
 ---
 
