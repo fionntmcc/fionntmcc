@@ -32,11 +32,11 @@ Applied Networking, Graphics Programming
 
 ## Projects
 
-**imDB Application**  
+**imDB Application - Result: 1.1**  
 - Created a movie tracker web application using Angular.
 - Utilized TheMovieDB API, and implemented data persistence functionality.
 
-**Natural Language Processing Application**
+**Natural Language Processing Application - Result: 1.1**
 - Created a Natural Language Processing application using Java.
 - App calculates similar words from a given phrase.
 
@@ -52,7 +52,7 @@ July 2023 – Present
 - Consistently performed in top 20% of salespersons nationwide. 
 
 **Swim Teacher**  
-Kinfisher Club, Galway 
+Kingfisher Club, Galway 
 January 2023 – Present  
 - Taught all age groups to improve confidence and abilities.
 - Worked in an environment that promoted intrapersonal communications and public speaking abilities.
