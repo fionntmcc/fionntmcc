@@ -22,8 +22,17 @@ Applied Networking, Graphics Programming
 
 ## Technical Skills
 
-- **Languages:** Java, JavaScript, C, HTML/CSS, Python
-- **Frameworks:** React, Angular, Node.js, .net MAUI
+- **Languages:**
+* Java (Fluent)
+* JavaScript (Competent)
+* HTML / CSS (Competent)
+* C (Working knowledge)
+* Python (Working knowledge)
+
+- ** Frameworks **
+* React.js (Competent)
+* Angular (Working knowledge)
+
 - **Tools:** Git, Visual Studio Code, Eclipse, JIRA
 - **Databases:** MySQL, MongoDB
 - **Operating Systems:** Windows, Linux
