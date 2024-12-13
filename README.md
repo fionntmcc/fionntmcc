@@ -22,14 +22,14 @@ Applied Networking, Graphics Programming
 
 ## Technical Skills
 
-- **Languages:**
+**Languages:**
 * Java (Fluent)
 * JavaScript (Competent)
 * HTML / CSS (Competent)
 * C (Working knowledge)
 * Python (Working knowledge)
 
-- ** Frameworks **
+**Frameworks:**
 * React.js (Competent)
 * Angular (Working knowledge)
 
