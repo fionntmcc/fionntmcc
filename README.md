@@ -33,9 +33,14 @@ Applied Networking, Graphics Programming
 * React.js (Competent)
 * Angular (Working knowledge)
 
-- **Tools:** Git, Visual Studio Code, Eclipse, JIRA
-- **Databases:** MySQL, MongoDB
-- **Operating Systems:** Windows, Linux
+**Database Technologies:**
+* MySql (Competent)
+* MongoDB (Competent)
+
+**Tools:** 
+* Git
+* Visual Studio Code 
+* Eclipse
 
 ---
 
