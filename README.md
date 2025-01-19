@@ -83,7 +83,7 @@ January 2023 – Present
 ## Activities and Leadership
 
 - **Volunteer**, Prospective Swim Coach 
-  Assisted local Swim Club in session running.
+  Assisted local Swim Club in teaching of lessons.
 
 ---
 
