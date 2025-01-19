@@ -6,7 +6,9 @@ fionntmcc04@gmail.com | +353 85 266 1253 |  www.linkedin.com/in/fionn-mccarthy  
 
 ## Objective
 
-Motivated and detail-oriented software development student seeking an internship to leverage programming skills and experience in software development. Eager to contribute to innovative projects and collaborate with a dynamic team.
+Motivated and detail-oriented software development student seeking an internship to spskill programming skills and experience in software development. 
+Eager to contribute to innovative projects and collaborate with a dynamic team.
+Particularly interested in backend development.
 
 ---
 
@@ -16,7 +18,7 @@ Motivated and detail-oriented software development student seeking an internship
 Atlantic Technological University, Galway  
 Expected Graduation: June 2026  
 Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Engineering,
-Applied Networking, Graphics Programming
+Applied Networking, Graphics Programming, Mobile Application Development
 
 ---
 
@@ -54,6 +56,11 @@ Applied Networking, Graphics Programming
 - Created a Natural Language Processing application using Java.
 - App calculates similar words from a given phrase.
 
+**Text Simplifier - Result: 1.1**
+- Created a text document simplifying application in Java.
+- Simplifies less frequently used words to more frequently used synonyms.
+- Use of Structured Concurrency and Virtual Threads.
+
 ---
 
 ## Work Experience
@@ -75,9 +82,6 @@ January 2023 – Present
 
 ## Activities and Leadership
 
-- **Member**, Computer Science Club, [Your University]  
-  Participate in coding competitions and hackathons, enhancing teamwork and problem-solving skills.
-
 - **Volunteer**, Prospective Swim Coach 
   Assisted local Swim Club in session running.
 
@@ -85,7 +89,7 @@ January 2023 – Present
 
 ## Awards
 
-- Acheived High Acheivers award from Secondary School for acheiving over 600 points in the Leaving Cert Examinations, 2022
+- Acheived High Acheivers award from Secondary School for acheiving over 600 points in the Leaving Cert Examinations, 2022.
 - Received recognition from Board of Applied Mathematics Teachers for acheiving a grade of 100% in the Applied Mathematics Leaving Cert Examination.
 
 ---
