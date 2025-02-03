@@ -46,12 +46,15 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 ## Projects
 
 **imDB Application - Result: 1.1**  
-- Developed a movie tracker web application using Angular.
-- Utilized TheMovieDB API and implemented data persistence functionality.
+- Developed a movie tracker web application using Angular Ionic, similar to the online application 'Letterboxd'.
+- Provides users with the ability to track and rate watched movies.
+- Utilized TheMovieDB API to privide data on movie release dates, descriptions, featured actors, etc.
+- Implemented data persistence functionality.
+- Utilized Bootstrap to stylize application.
 
 **Natural Language Processing Application - Result: 1.1**
-- Created a Natural Language Processing application using Java.
-- Implemented functionality to calculate similar words from a given phrase.
+- Created a Java-based console Natural Language Processing application to compare words and short sentences against a dataset of 59,602 word-embeddings.
+- Implemented algorithms to calculate similar words using Euclidean Distance and Cosine Distance, presenting the top N matches and their similarity scores to a specified .txt file.
 
 **Text Simplifier - Result: 1.1**
 - Developed a text document simplifying application in Java.
@@ -66,21 +69,23 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 Tesco Mobile, Galway  
 July 2023 – Present  
 - Troubleshot network and SIM issues, improving customer satisfaction.
-- Won awards for sales in Period 7 of 2024.
+- Won awards for sales in 2024.
 - Consistently performed in the top 20% of salespersons nationwide.
 
 **Swim Teacher**  
 Kingfisher Club, Galway  
 January 2023 – Present  
 - Taught all age groups to improve confidence and abilities.
-- Enhanced intrapersonal communication and public speaking skills.
+- Enhanced interpersonal communication and public speaking skills.
 
 ---
 
 ## Activities and Leadership
 
-- **Volunteer**, Prospective Swim Coach  
+- **Volunteer**, Prospective Swim Coach   
   Assisted local Swim Club in teaching lessons.
+- **Talent Training**, Tesco Mobile   
+  Ensuring quality customer service
 
 ---
 
