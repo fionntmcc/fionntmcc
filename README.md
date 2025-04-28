@@ -23,14 +23,14 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 
 **Languages:**
 * Java (Fluent)
-* JavaScript (Competent)
+* JavaScript (Fluent)
 * HTML / CSS (Competent)
 * C (Working knowledge)
 * Python (Working knowledge)
 
 **Frameworks:**
 * React.js (Competent)
-* Angular (Working knowledge)
+* Angular (Competent)
 
 **Database Technologies:**
 * MySQL (Competent)
