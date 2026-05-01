@@ -27,7 +27,7 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 * JavaScript (Fluent)
 * C++ (Competent)
 * C (Competent)
-* Ruby
+* Ruby (Competent)
 
 **Frameworks:**
 * React.js (Fluent)
@@ -44,17 +44,26 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 * Git
 * Docker
 * Kubernetes
+* ONNX
 
 ---
 
 ## Projects
 
-**imDB Application - Result: 1.1**  
-- Developed a movie tracker web application using Angular Ionic, similar to the online application 'Letterboxd'.
-- Provides users with the ability to track and rate watched movies.
-- Utilized TheMovieDB API to privide data on movie release dates, descriptions, featured actors, etc.
-- Implemented data persistence functionality.
-- Utilized Bootstrap to stylize application.
+
+
+### Simplified Cross-Platform Hierarchical Reasoning Model for Puzzle Solving - Result: Pending
+#### GitHub: (https://github.com/fionntmcc/cross-platform-hrm)
+- Developed single-module HRM variant for solving Sudoku and Maze Puzzles using Pytorch and ONNX conversion.
+- Explore whether hierarchy or depth of reasoning drives performance in definitive reasoning tasks.
+- Achieves **87.8% puzzle accuracy** on **mixed-difficulty Sudoku puzzles** (0--100 backtracks).
+  - Puzzles and solutions are script-generated in-project using backtracking.
+- Achieves **75.2% puzzle accuracy** on novel **15x15 Weighted Maze puzzles**.
+  - This is the first cost-sensitive pathfinding task developed on a HRM variant that we know of.
+  - Puzzles and solutions are script-generated in-project using Dijkstra's algorithm.
+- Training and inference on a single NVIDIA RTX 5070Ti GPU.
+- Models export to ONNX for cross-platform inference.
+- Models deployed to Raspberry Pi 5 16GB using ONNX Runtime for cross-platform demonstration.
 
 **Natural Language Processing Application - Result: 1.1**
 - Created a Java-based console Natural Language Processing application to compare words and short sentences against a dataset of 59,602 word-embeddings.
