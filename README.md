@@ -6,7 +6,7 @@ fionntmcc04@gmail.com | +353 85 266 1253 | [LinkedIn](https://www.linkedin.com/i
 
 ## Objective
 
-Motivated and detail-oriented software development student seeking an internship to enhance programming skills and gain experience in software development. Eager to contribute to innovative projects and collaborate with a dynamic team. Particularly interested in backend development.
+Motivated and detail-oriented software development student. Eager to contribute to innovative projects and collaborate with a dynamic team. Particularly interested in backend development, machine learning and machine learning research.
 
 ---
 
@@ -66,11 +66,11 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 - Models export to ONNX for cross-platform inference.
 - Models deployed to Raspberry Pi 5 16GB using ONNX Runtime for cross-platform demonstration.
 
-**Natural Language Processing Application - Result: 1.1**
+### Natural Language Processing Application - Result: 1.1
 - Created a Java-based console Natural Language Processing application to compare words and short sentences against a dataset of 59,602 word-embeddings.
 - Implemented algorithms to calculate similar words using Euclidean Distance and Cosine Distance, presenting the top N matches and their similarity scores to a specified .txt file.
 
-**Text Simplifier - Result: 1.1**
+### Text Simplifier - Result: 1.1
 - Developed a text document simplifying application in Java.
 - Simplified less frequently used words to more frequently used synonyms.
 - Utilized Structured Concurrency and Virtual Threads.
