@@ -56,7 +56,7 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 #### GitHub: https://github.com/fionntmcc/cross-platform-hrm
 - Pair project with [Kyrylo Kozlovskyi](https://github.com/KyryloKozlovskyi/).
 - Developed single-module HRM variant for solving Sudoku and Maze Puzzles using Pytorch and ONNX conversion.
-- Explore whether hierarchy or depth of reasoning drives performance in definitive reasoning tasks.
+- Explores whether hierarchy or depth of reasoning drives performance in definitive reasoning tasks.
 - Achieves **87.8% puzzle accuracy** on **mixed-difficulty Sudoku puzzles** (0--100 backtracks).
   - Puzzles and solutions are script-generated in-project using backtracking.
 - Achieves **75.2% puzzle accuracy** on novel **15x15 Weighted Maze puzzles**.
