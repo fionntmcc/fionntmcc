@@ -53,7 +53,8 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 
 
 ### Simplified Cross-Platform Hierarchical Reasoning Model for Puzzle Solving - Result: Pending
-#### GitHub: (https://github.com/fionntmcc/cross-platform-hrm)
+#### GitHub: https://github.com/fionntmcc/cross-platform-hrm
+- Pair project with [Kyrylo Kozlovskyi](https://github.com/KyryloKozlovskyi/).
 - Developed single-module HRM variant for solving Sudoku and Maze Puzzles using Pytorch and ONNX conversion.
 - Explore whether hierarchy or depth of reasoning drives performance in definitive reasoning tasks.
 - Achieves **87.8% puzzle accuracy** on **mixed-difficulty Sudoku puzzles** (0--100 backtracks).
