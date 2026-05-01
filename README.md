@@ -8,6 +8,8 @@ fionntmcc04@gmail.com | +353 85 266 1253 | [LinkedIn](https://www.linkedin.com/i
 
 Motivated and detail-oriented software development student. Eager to contribute to innovative projects and collaborate with a dynamic team. Particularly interested in backend development, machine learning and machine learning research.
 
+Graduate Software Engineer at Ericsson International starting July 2026.
+
 ---
 
 ## Education
@@ -78,6 +80,14 @@ Relevant Coursework: Data Structures, Algorithms, Web Development, Database Mana
 ---
 
 ## Work Experience
+
+**Software Intern**  
+Ericsson International, Athlone  
+May 2025 – August 2025  
+- Worked on an internal tool in a live, agile, collaborative environment with new technologies.
+- Consistently surpassed sprint requirements.
+- Secured Graduate Role starting in July 2026.
+
 
 **Phone Tech and Salesperson**  
 Tesco Mobile, Galway  
